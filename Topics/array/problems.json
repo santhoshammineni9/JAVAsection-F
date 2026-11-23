@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:52:29.641Z",
+  "updatedAt": "2026-11-23T13:52:47.017Z",
   "problems": [
     {
       "frontendId": "27",
@@ -324,6 +324,26 @@
           "path": "1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.java",
           "sha": "36f3a3070051e66171dd3125fb0c728fad7b6f38",
           "lastSyncedAt": "2026-11-23T13:49:23.511Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1502",
+      "title": "Can Make Arithmetic Progression From Sequence",
+      "slug": "can-make-arithmetic-progression-from-sequence",
+      "problemName": "1502-can-make-arithmetic-progression-from-sequence",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/can-make-arithmetic-progression-from-sequence/",
+      "folderPath": "1502-can-make-arithmetic-progression-from-sequence/",
+      "readmePath": "1502-can-make-arithmetic-progression-from-sequence/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1502-can-make-arithmetic-progression-from-sequence.java",
+          "path": "1502-can-make-arithmetic-progression-from-sequence/1502-can-make-arithmetic-progression-from-sequence.java",
+          "sha": "082a851cd92722881382ba862a5314451142fd9b",
+          "lastSyncedAt": "2026-11-23T13:52:47.017Z"
         }
       ]
     },
