@@ -5,7 +5,7 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-23T13:48:13.247Z",
+  "updatedAt": "2026-11-23T13:48:26.394Z",
   "problems": [
     {
       "frontendId": "1351",
@@ -24,6 +24,26 @@
           "path": "1351-count-negative-numbers-in-a-sorted-matrix/1351-count-negative-numbers-in-a-sorted-matrix.java",
           "sha": "71b0196935bb7aaa73052323e92a512efa6905c8",
           "lastSyncedAt": "2026-11-23T13:48:13.247Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1380",
+      "title": "Lucky Numbers in a Matrix",
+      "slug": "lucky-numbers-in-a-matrix",
+      "problemName": "1380-lucky-numbers-in-a-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/lucky-numbers-in-a-matrix/",
+      "folderPath": "1380-lucky-numbers-in-a-matrix/",
+      "readmePath": "1380-lucky-numbers-in-a-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1380-lucky-numbers-in-a-matrix.java",
+          "path": "1380-lucky-numbers-in-a-matrix/1380-lucky-numbers-in-a-matrix.java",
+          "sha": "7fd804e6de58bb1c30e5eeebeb37239104cb666d",
+          "lastSyncedAt": "2026-11-23T13:48:26.394Z"
         }
       ]
     }
