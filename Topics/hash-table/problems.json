@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-23T13:53:04.440Z",
+  "updatedAt": "2026-11-23T13:54:40.048Z",
   "problems": [
     {
       "frontendId": "1",
@@ -124,6 +124,26 @@
           "path": "1002-find-common-characters/1002-find-common-characters.java",
           "sha": "c639c7184cc01a33c61b2caf04128849c25c5ff2",
           "lastSyncedAt": "2026-11-23T13:52:11.658Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1512",
+      "title": "Number of Good Pairs",
+      "slug": "number-of-good-pairs",
+      "problemName": "1512-number-of-good-pairs",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/number-of-good-pairs/",
+      "folderPath": "1512-number-of-good-pairs/",
+      "readmePath": "1512-number-of-good-pairs/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1512-number-of-good-pairs.java",
+          "path": "1512-number-of-good-pairs/1512-number-of-good-pairs.java",
+          "sha": "ab5c539ab4ba01f2725b1ba0955634cf9ada6b55",
+          "lastSyncedAt": "2026-11-23T13:54:40.048Z"
         }
       ]
     },
