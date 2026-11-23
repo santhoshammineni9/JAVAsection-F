@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-23T13:50:37.137Z",
+  "updatedAt": "2026-11-23T13:51:24.641Z",
   "problems": [
     {
       "frontendId": "27",
@@ -64,6 +64,26 @@
           "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "6823349eff7b6bc52bf10450ce0cc68ea5805b3f",
           "lastSyncedAt": "2026-11-23T13:49:09.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2000",
+      "title": "Reverse Prefix of Word",
+      "slug": "reverse-prefix-of-word",
+      "problemName": "2000-reverse-prefix-of-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-prefix-of-word/",
+      "folderPath": "2000-reverse-prefix-of-word/",
+      "readmePath": "2000-reverse-prefix-of-word/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2000-reverse-prefix-of-word.java",
+          "path": "2000-reverse-prefix-of-word/2000-reverse-prefix-of-word.java",
+          "sha": "a8142699033f437f198c6d9e276b5882915b6850",
+          "lastSyncedAt": "2026-11-23T13:51:24.641Z"
         }
       ]
     }
