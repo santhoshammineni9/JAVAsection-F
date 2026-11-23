@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:53:04.440Z",
+  "updatedAt": "2026-11-23T13:53:11.163Z",
   "problems": [
     {
       "frontendId": "1",
@@ -44,6 +44,26 @@
           "path": "0027-remove-element/0027-remove-element.java",
           "sha": "0f0d9f058e2067d25ff99d2684a8e4db9a2b83bb",
           "lastSyncedAt": "2026-11-23T13:50:37.137Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "66",
+      "title": "Plus One",
+      "slug": "plus-one",
+      "problemName": "0066-plus-one",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/plus-one/",
+      "folderPath": "0066-plus-one/",
+      "readmePath": "0066-plus-one/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0066-plus-one.java",
+          "path": "0066-plus-one/0066-plus-one.java",
+          "sha": "943f3b87b9f8369f660f6bbc2981ec297f9d2dbe",
+          "lastSyncedAt": "2026-11-23T13:53:11.163Z"
         }
       ]
     },
