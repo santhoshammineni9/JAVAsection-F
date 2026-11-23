@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T13:47:38.756Z",
+  "updatedAt": "2026-11-23T13:49:02.943Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "c2e517a8c96368e3f27b08e17160640a9a83c7fc",
           "lastSyncedAt": "2026-11-23T13:47:38.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1773",
+      "title": "Count Items Matching a Rule",
+      "slug": "count-items-matching-a-rule",
+      "problemName": "1773-count-items-matching-a-rule",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-items-matching-a-rule/",
+      "folderPath": "1773-count-items-matching-a-rule/",
+      "readmePath": "1773-count-items-matching-a-rule/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1773-count-items-matching-a-rule.java",
+          "path": "1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.java",
+          "sha": "b1f777c768d5d8fefa892c8fba84c82ededbc748",
+          "lastSyncedAt": "2026-11-23T13:49:02.943Z"
         }
       ]
     }
