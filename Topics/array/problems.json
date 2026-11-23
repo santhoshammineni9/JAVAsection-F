@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:51:02.338Z",
+  "updatedAt": "2026-11-23T13:51:18.145Z",
   "problems": [
     {
       "frontendId": "27",
@@ -304,6 +304,26 @@
           "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.java",
           "sha": "a556c702086b3f7b66c436f82879f680069c2679",
           "lastSyncedAt": "2026-11-23T13:48:33.967Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "problemName": "1662-check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+      "folderPath": "1662-check-if-two-string-arrays-are-equivalent/",
+      "readmePath": "1662-check-if-two-string-arrays-are-equivalent/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1662-check-if-two-string-arrays-are-equivalent.java",
+          "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.java",
+          "sha": "c086f9307d96a9ae1c7c9dbb5e4a8b9a33819836",
+          "lastSyncedAt": "2026-11-23T13:51:18.145Z"
         }
       ]
     },
