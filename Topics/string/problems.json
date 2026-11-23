@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T13:51:49.816Z",
+  "updatedAt": "2026-11-23T13:51:58.246Z",
   "problems": [
     {
       "frontendId": "3",
@@ -124,6 +124,26 @@
           "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.java",
           "sha": "c086f9307d96a9ae1c7c9dbb5e4a8b9a33819836",
           "lastSyncedAt": "2026-11-23T13:51:18.145Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1678",
+      "title": "Goal Parser Interpretation",
+      "slug": "goal-parser-interpretation",
+      "problemName": "1678-goal-parser-interpretation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/goal-parser-interpretation/",
+      "folderPath": "1678-goal-parser-interpretation/",
+      "readmePath": "1678-goal-parser-interpretation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1678-goal-parser-interpretation.java",
+          "path": "1678-goal-parser-interpretation/1678-goal-parser-interpretation.java",
+          "sha": "385e8fba0861ae7683ef13bdc07662b210b5bdde",
+          "lastSyncedAt": "2026-11-23T13:51:58.246Z"
         }
       ]
     },
