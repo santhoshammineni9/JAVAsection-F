@@ -5,8 +5,28 @@
     "name": "Matrix",
     "tagId": "61053"
   },
-  "updatedAt": "2026-11-23T13:48:40.963Z",
+  "updatedAt": "2026-11-23T13:48:50.515Z",
   "problems": [
+    {
+      "frontendId": "240",
+      "title": "Search a 2D Matrix II",
+      "slug": "search-a-2d-matrix-ii",
+      "problemName": "0240-search-a-2d-matrix-ii",
+      "difficulty": "Medium",
+      "leetcodeUrl": "https://leetcode.com/problems/search-a-2d-matrix-ii/",
+      "folderPath": "0240-search-a-2d-matrix-ii/",
+      "readmePath": "0240-search-a-2d-matrix-ii/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0240-search-a-2d-matrix-ii.java",
+          "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.java",
+          "sha": "81a05be43e280639f0311a99cb60b21b6452da11",
+          "lastSyncedAt": "2026-11-23T13:48:50.515Z"
+        }
+      ]
+    },
     {
       "frontendId": "867",
       "title": "Transpose Matrix",
