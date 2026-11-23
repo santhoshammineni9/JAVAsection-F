@@ -5,7 +5,7 @@
     "name": "Simulation",
     "tagId": "61055"
   },
-  "updatedAt": "2026-11-23T13:48:40.963Z",
+  "updatedAt": "2026-11-23T13:52:21.944Z",
   "problems": [
     {
       "frontendId": "867",
@@ -44,6 +44,26 @@
           "path": "1252-cells-with-odd-values-in-a-matrix/1252-cells-with-odd-values-in-a-matrix.java",
           "sha": "9752870b2a1ecd1c5726fec7a1078fa8696e599c",
           "lastSyncedAt": "2026-11-23T13:47:53.664Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1920",
+      "title": "Build Array from Permutation",
+      "slug": "build-array-from-permutation",
+      "problemName": "1920-build-array-from-permutation",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/build-array-from-permutation/",
+      "folderPath": "1920-build-array-from-permutation/",
+      "readmePath": "1920-build-array-from-permutation/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1920-build-array-from-permutation.java",
+          "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
+          "sha": "e9b5c55c639fd4849f999700ca39c123fece7412",
+          "lastSyncedAt": "2026-11-23T13:52:21.944Z"
         }
       ]
     }
