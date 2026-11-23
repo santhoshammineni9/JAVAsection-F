@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-23T13:47:38.756Z",
+  "updatedAt": "2026-11-23T13:50:27.742Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "c2e517a8c96368e3f27b08e17160640a9a83c7fc",
           "lastSyncedAt": "2026-11-23T13:47:38.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2215",
+      "title": "Find the Difference of Two Arrays",
+      "slug": "find-the-difference-of-two-arrays",
+      "problemName": "2215-find-the-difference-of-two-arrays",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-the-difference-of-two-arrays/",
+      "folderPath": "2215-find-the-difference-of-two-arrays/",
+      "readmePath": "2215-find-the-difference-of-two-arrays/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2215-find-the-difference-of-two-arrays.java",
+          "path": "2215-find-the-difference-of-two-arrays/2215-find-the-difference-of-two-arrays.java",
+          "sha": "cbe0e417ebb2973b2927c7953832d74c20ec79ce",
+          "lastSyncedAt": "2026-11-23T13:50:27.742Z"
         }
       ]
     }
