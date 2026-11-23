@@ -1,0 +1,31 @@
+{
+  "version": 1,
+  "topic": {
+    "slug": "simulation",
+    "name": "Simulation",
+    "tagId": "61055"
+  },
+  "updatedAt": "2026-11-23T13:47:53.664Z",
+  "problems": [
+    {
+      "frontendId": "1252",
+      "title": "Cells with Odd Values in a Matrix",
+      "slug": "cells-with-odd-values-in-a-matrix",
+      "problemName": "1252-cells-with-odd-values-in-a-matrix",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/cells-with-odd-values-in-a-matrix/",
+      "folderPath": "1252-cells-with-odd-values-in-a-matrix/",
+      "readmePath": "1252-cells-with-odd-values-in-a-matrix/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1252-cells-with-odd-values-in-a-matrix.java",
+          "path": "1252-cells-with-odd-values-in-a-matrix/1252-cells-with-odd-values-in-a-matrix.java",
+          "sha": "9752870b2a1ecd1c5726fec7a1078fa8696e599c",
+          "lastSyncedAt": "2026-11-23T13:47:53.664Z"
+        }
+      ]
+    }
+  ]
+}
