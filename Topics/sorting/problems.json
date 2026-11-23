@@ -5,8 +5,28 @@
     "name": "Sorting",
     "tagId": "61049"
   },
-  "updatedAt": "2026-11-23T13:49:47.829Z",
+  "updatedAt": "2026-11-23T13:51:49.816Z",
   "problems": [
+    {
+      "frontendId": "242",
+      "title": "Valid Anagram",
+      "slug": "valid-anagram",
+      "problemName": "0242-valid-anagram",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-anagram/",
+      "folderPath": "0242-valid-anagram/",
+      "readmePath": "0242-valid-anagram/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0242-valid-anagram.java",
+          "path": "0242-valid-anagram/0242-valid-anagram.java",
+          "sha": "0f37ade2261c8e4af6b2828f9a8732053bde84a9",
+          "lastSyncedAt": "2026-11-23T13:51:49.816Z"
+        }
+      ]
+    },
     {
       "frontendId": "455",
       "title": "Assign Cookies",
