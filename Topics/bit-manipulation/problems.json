@@ -5,8 +5,28 @@
     "name": "Bit Manipulation",
     "tagId": "19"
   },
-  "updatedAt": "2026-11-23T13:54:17.573Z",
+  "updatedAt": "2026-11-23T13:55:08.378Z",
   "problems": [
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0067-add-binary.py",
+          "path": "0067-add-binary/0067-add-binary.py",
+          "sha": "02af0f0f1f3c6c495bfa0d42f92320ef717ce191",
+          "lastSyncedAt": "2026-11-23T13:55:08.378Z"
+        }
+      ]
+    },
     {
       "frontendId": "191",
       "title": "Number of 1 Bits",
