@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:48:50.515Z",
+  "updatedAt": "2026-11-23T13:49:02.943Z",
   "problems": [
     {
       "frontendId": "240",
@@ -124,6 +124,26 @@
           "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.java",
           "sha": "a556c702086b3f7b66c436f82879f680069c2679",
           "lastSyncedAt": "2026-11-23T13:48:33.967Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1773",
+      "title": "Count Items Matching a Rule",
+      "slug": "count-items-matching-a-rule",
+      "problemName": "1773-count-items-matching-a-rule",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/count-items-matching-a-rule/",
+      "folderPath": "1773-count-items-matching-a-rule/",
+      "readmePath": "1773-count-items-matching-a-rule/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1773-count-items-matching-a-rule.java",
+          "path": "1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.java",
+          "sha": "b1f777c768d5d8fefa892c8fba84c82ededbc748",
+          "lastSyncedAt": "2026-11-23T13:49:02.943Z"
         }
       ]
     }
