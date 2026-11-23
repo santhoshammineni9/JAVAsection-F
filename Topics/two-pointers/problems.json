@@ -5,7 +5,7 @@
     "name": "Two Pointers",
     "tagId": "9"
   },
-  "updatedAt": "2026-11-23T13:51:24.641Z",
+  "updatedAt": "2026-11-23T13:53:39.202Z",
   "problems": [
     {
       "frontendId": "27",
@@ -24,6 +24,26 @@
           "path": "0027-remove-element/0027-remove-element.java",
           "sha": "0f0d9f058e2067d25ff99d2684a8e4db9a2b83bb",
           "lastSyncedAt": "2026-11-23T13:50:37.137Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "125",
+      "title": "Valid Palindrome",
+      "slug": "valid-palindrome",
+      "problemName": "0125-valid-palindrome",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/valid-palindrome/",
+      "folderPath": "0125-valid-palindrome/",
+      "readmePath": "0125-valid-palindrome/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0125-valid-palindrome.java",
+          "path": "0125-valid-palindrome/0125-valid-palindrome.java",
+          "sha": "205287752dc153239c539bbfe3df79f65b9de2ff",
+          "lastSyncedAt": "2026-11-23T13:53:39.202Z"
         }
       ]
     },
