@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T13:51:24.641Z",
+  "updatedAt": "2026-11-23T13:51:35.818Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "c2e517a8c96368e3f27b08e17160640a9a83c7fc",
           "lastSyncedAt": "2026-11-23T13:47:38.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "520",
+      "title": "Detect Capital",
+      "slug": "detect-capital",
+      "problemName": "0520-detect-capital",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/detect-capital/",
+      "folderPath": "0520-detect-capital/",
+      "readmePath": "0520-detect-capital/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0520-detect-capital.java",
+          "path": "0520-detect-capital/0520-detect-capital.java",
+          "sha": "9b9d998bbe11d4102e0f4aa6112d20664c8b4fee",
+          "lastSyncedAt": "2026-11-23T13:51:35.818Z"
         }
       ]
     },
