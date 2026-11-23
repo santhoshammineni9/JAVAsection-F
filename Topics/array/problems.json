@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:49:23.511Z",
+  "updatedAt": "2026-11-23T13:49:31.371Z",
   "problems": [
     {
       "frontendId": "240",
@@ -24,6 +24,26 @@
           "path": "0240-search-a-2d-matrix-ii/0240-search-a-2d-matrix-ii.java",
           "sha": "81a05be43e280639f0311a99cb60b21b6452da11",
           "lastSyncedAt": "2026-11-23T13:48:50.515Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "455",
+      "title": "Assign Cookies",
+      "slug": "assign-cookies",
+      "problemName": "0455-assign-cookies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/assign-cookies/",
+      "folderPath": "0455-assign-cookies/",
+      "readmePath": "0455-assign-cookies/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0455-assign-cookies.java",
+          "path": "0455-assign-cookies/0455-assign-cookies.java",
+          "sha": "5b009ff4614729320d10d57a36e0107c421b6f60",
+          "lastSyncedAt": "2026-11-23T13:49:31.371Z"
         }
       ]
     },
