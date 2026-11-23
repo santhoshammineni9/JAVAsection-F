@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:51:40.454Z",
+  "updatedAt": "2026-11-23T13:52:11.658Z",
   "problems": [
     {
       "frontendId": "27",
@@ -164,6 +164,26 @@
           "path": "0867-transpose-matrix/0867-transpose-matrix.java",
           "sha": "483670807f12a5d0e272296b7030a948c4967d8f",
           "lastSyncedAt": "2026-11-23T13:48:40.963Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1002",
+      "title": "Find Common Characters",
+      "slug": "find-common-characters",
+      "problemName": "1002-find-common-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-common-characters/",
+      "folderPath": "1002-find-common-characters/",
+      "readmePath": "1002-find-common-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1002-find-common-characters.java",
+          "path": "1002-find-common-characters/1002-find-common-characters.java",
+          "sha": "c639c7184cc01a33c61b2caf04128849c25c5ff2",
+          "lastSyncedAt": "2026-11-23T13:52:11.658Z"
         }
       ]
     },
