@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T13:51:18.145Z",
+  "updatedAt": "2026-11-23T13:51:24.641Z",
   "problems": [
     {
       "frontendId": "3",
@@ -104,6 +104,26 @@
           "path": "1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.java",
           "sha": "b1f777c768d5d8fefa892c8fba84c82ededbc748",
           "lastSyncedAt": "2026-11-23T13:49:02.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2000",
+      "title": "Reverse Prefix of Word",
+      "slug": "reverse-prefix-of-word",
+      "problemName": "2000-reverse-prefix-of-word",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/reverse-prefix-of-word/",
+      "folderPath": "2000-reverse-prefix-of-word/",
+      "readmePath": "2000-reverse-prefix-of-word/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2000-reverse-prefix-of-word.java",
+          "path": "2000-reverse-prefix-of-word/2000-reverse-prefix-of-word.java",
+          "sha": "a8142699033f437f198c6d9e276b5882915b6850",
+          "lastSyncedAt": "2026-11-23T13:51:24.641Z"
         }
       ]
     },
