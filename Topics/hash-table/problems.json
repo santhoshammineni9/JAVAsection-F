@@ -5,7 +5,7 @@
     "name": "Hash Table",
     "tagId": "6"
   },
-  "updatedAt": "2026-11-23T13:51:49.816Z",
+  "updatedAt": "2026-11-23T13:52:11.658Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0560-subarray-sum-equals-k/0560-subarray-sum-equals-k.java",
           "sha": "2a54f00c54667f2f23d4691cf3b31a90a5453407",
           "lastSyncedAt": "2026-11-23T13:51:40.454Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1002",
+      "title": "Find Common Characters",
+      "slug": "find-common-characters",
+      "problemName": "1002-find-common-characters",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/find-common-characters/",
+      "folderPath": "1002-find-common-characters/",
+      "readmePath": "1002-find-common-characters/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1002-find-common-characters.java",
+          "path": "1002-find-common-characters/1002-find-common-characters.java",
+          "sha": "c639c7184cc01a33c61b2caf04128849c25c5ff2",
+          "lastSyncedAt": "2026-11-23T13:52:11.658Z"
         }
       ]
     },
