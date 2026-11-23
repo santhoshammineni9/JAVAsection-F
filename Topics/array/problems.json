@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:48:26.394Z",
+  "updatedAt": "2026-11-23T13:48:33.967Z",
   "problems": [
     {
       "frontendId": "1252",
@@ -64,6 +64,26 @@
           "path": "1380-lucky-numbers-in-a-matrix/1380-lucky-numbers-in-a-matrix.java",
           "sha": "7fd804e6de58bb1c30e5eeebeb37239104cb666d",
           "lastSyncedAt": "2026-11-23T13:48:26.394Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1572",
+      "title": "Matrix Diagonal Sum",
+      "slug": "matrix-diagonal-sum",
+      "problemName": "1572-matrix-diagonal-sum",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/matrix-diagonal-sum/",
+      "folderPath": "1572-matrix-diagonal-sum/",
+      "readmePath": "1572-matrix-diagonal-sum/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1572-matrix-diagonal-sum.java",
+          "path": "1572-matrix-diagonal-sum/1572-matrix-diagonal-sum.java",
+          "sha": "a556c702086b3f7b66c436f82879f680069c2679",
+          "lastSyncedAt": "2026-11-23T13:48:33.967Z"
         }
       ]
     }
