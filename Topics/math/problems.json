@@ -5,7 +5,7 @@
     "name": "Math",
     "tagId": "8"
   },
-  "updatedAt": "2026-11-23T13:55:02.534Z",
+  "updatedAt": "2026-11-23T13:55:08.378Z",
   "problems": [
     {
       "frontendId": "9",
@@ -44,6 +44,26 @@
           "path": "0066-plus-one/0066-plus-one.java",
           "sha": "943f3b87b9f8369f660f6bbc2981ec297f9d2dbe",
           "lastSyncedAt": "2026-11-23T13:53:11.163Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0067-add-binary.py",
+          "path": "0067-add-binary/0067-add-binary.py",
+          "sha": "02af0f0f1f3c6c495bfa0d42f92320ef717ce191",
+          "lastSyncedAt": "2026-11-23T13:55:08.378Z"
         }
       ]
     },
