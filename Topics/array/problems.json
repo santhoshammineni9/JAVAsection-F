@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:52:21.944Z",
+  "updatedAt": "2026-11-23T13:52:29.641Z",
   "problems": [
     {
       "frontendId": "27",
@@ -424,6 +424,26 @@
           "path": "1920-build-array-from-permutation/1920-build-array-from-permutation.java",
           "sha": "e9b5c55c639fd4849f999700ca39c123fece7412",
           "lastSyncedAt": "2026-11-23T13:52:21.944Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1929",
+      "title": "Concatenation of Array",
+      "slug": "concatenation-of-array",
+      "problemName": "1929-concatenation-of-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/concatenation-of-array/",
+      "folderPath": "1929-concatenation-of-array/",
+      "readmePath": "1929-concatenation-of-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1929-concatenation-of-array.java",
+          "path": "1929-concatenation-of-array/1929-concatenation-of-array.java",
+          "sha": "8d455b2ea581462d1d39cd5cd5ef0b4250a64cd3",
+          "lastSyncedAt": "2026-11-23T13:52:29.641Z"
         }
       ]
     },
