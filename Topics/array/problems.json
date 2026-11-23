@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:50:54.149Z",
+  "updatedAt": "2026-11-23T13:51:02.338Z",
   "problems": [
     {
       "frontendId": "27",
@@ -244,6 +244,26 @@
           "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "6823349eff7b6bc52bf10450ce0cc68ea5805b3f",
           "lastSyncedAt": "2026-11-23T13:49:09.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1470",
+      "title": "Shuffle the Array",
+      "slug": "shuffle-the-array",
+      "problemName": "1470-shuffle-the-array",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/shuffle-the-array/",
+      "folderPath": "1470-shuffle-the-array/",
+      "readmePath": "1470-shuffle-the-array/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1470-shuffle-the-array.java",
+          "path": "1470-shuffle-the-array/1470-shuffle-the-array.java",
+          "sha": "596159bc50afc84a3e847f7fdc91ff1e3c9cafa6",
+          "lastSyncedAt": "2026-11-23T13:51:02.338Z"
         }
       ]
     },
