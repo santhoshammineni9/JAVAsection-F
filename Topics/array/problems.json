@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:50:09.841Z",
+  "updatedAt": "2026-11-23T13:50:20.143Z",
   "problems": [
     {
       "frontendId": "121",
@@ -264,6 +264,26 @@
           "path": "1773-count-items-matching-a-rule/1773-count-items-matching-a-rule.java",
           "sha": "b1f777c768d5d8fefa892c8fba84c82ededbc748",
           "lastSyncedAt": "2026-11-23T13:49:02.943Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "2114",
+      "title": "Maximum Number of Words Found in Sentences",
+      "slug": "maximum-number-of-words-found-in-sentences",
+      "problemName": "2114-maximum-number-of-words-found-in-sentences",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/",
+      "folderPath": "2114-maximum-number-of-words-found-in-sentences/",
+      "readmePath": "2114-maximum-number-of-words-found-in-sentences/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "2114-maximum-number-of-words-found-in-sentences.java",
+          "path": "2114-maximum-number-of-words-found-in-sentences/2114-maximum-number-of-words-found-in-sentences.java",
+          "sha": "fbd054fe70ea2b2cc6145fd2cf90696471d2b2f5",
+          "lastSyncedAt": "2026-11-23T13:50:20.143Z"
         }
       ]
     }
