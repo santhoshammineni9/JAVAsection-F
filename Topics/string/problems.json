@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T13:54:04.468Z",
+  "updatedAt": "2026-11-23T13:55:08.378Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "0058-length-of-last-word/0058-length-of-last-word.java",
           "sha": "80954de0e9f6e2f4f9a4f63efac3ce0c6b8b4439",
           "lastSyncedAt": "2026-11-23T13:53:59.401Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "67",
+      "title": "Add Binary",
+      "slug": "add-binary",
+      "problemName": "0067-add-binary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/add-binary/",
+      "folderPath": "0067-add-binary/",
+      "readmePath": "0067-add-binary/README.md",
+      "solutions": [
+        {
+          "language": "Python3",
+          "extension": ".py",
+          "filename": "0067-add-binary.py",
+          "path": "0067-add-binary/0067-add-binary.py",
+          "sha": "02af0f0f1f3c6c495bfa0d42f92320ef717ce191",
+          "lastSyncedAt": "2026-11-23T13:55:08.378Z"
         }
       ]
     },
