@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:49:09.649Z",
+  "updatedAt": "2026-11-23T13:49:23.511Z",
   "problems": [
     {
       "frontendId": "240",
@@ -124,6 +124,26 @@
           "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "6823349eff7b6bc52bf10450ce0cc68ea5805b3f",
           "lastSyncedAt": "2026-11-23T13:49:09.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1491",
+      "title": "Average Salary Excluding the Minimum and Maximum Salary",
+      "slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+      "problemName": "1491-average-salary-excluding-the-minimum-and-maximum-salary",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary/",
+      "folderPath": "1491-average-salary-excluding-the-minimum-and-maximum-salary/",
+      "readmePath": "1491-average-salary-excluding-the-minimum-and-maximum-salary/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1491-average-salary-excluding-the-minimum-and-maximum-salary.java",
+          "path": "1491-average-salary-excluding-the-minimum-and-maximum-salary/1491-average-salary-excluding-the-minimum-and-maximum-salary.java",
+          "sha": "36f3a3070051e66171dd3125fb0c728fad7b6f38",
+          "lastSyncedAt": "2026-11-23T13:49:23.511Z"
         }
       ]
     },
