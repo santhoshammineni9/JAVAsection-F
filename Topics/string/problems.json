@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T13:50:20.143Z",
+  "updatedAt": "2026-11-23T13:51:07.201Z",
   "problems": [
     {
       "frontendId": "3",
@@ -24,6 +24,26 @@
           "path": "0003-longest-substring-without-repeating-characters/0003-longest-substring-without-repeating-characters.java",
           "sha": "c2e517a8c96368e3f27b08e17160640a9a83c7fc",
           "lastSyncedAt": "2026-11-23T13:47:38.756Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "709",
+      "title": "To Lower Case",
+      "slug": "to-lower-case",
+      "problemName": "0709-to-lower-case",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/to-lower-case/",
+      "folderPath": "0709-to-lower-case/",
+      "readmePath": "0709-to-lower-case/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "0709-to-lower-case.java",
+          "path": "0709-to-lower-case/0709-to-lower-case.java",
+          "sha": "78724c4bea9121623c6b9372c5bfb165ca6fa88c",
+          "lastSyncedAt": "2026-11-23T13:51:07.201Z"
         }
       ]
     },
