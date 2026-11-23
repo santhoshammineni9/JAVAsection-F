@@ -5,7 +5,7 @@
     "name": "String",
     "tagId": "10"
   },
-  "updatedAt": "2026-11-23T13:51:12.357Z",
+  "updatedAt": "2026-11-23T13:51:18.145Z",
   "problems": [
     {
       "frontendId": "3",
@@ -64,6 +64,26 @@
           "path": "1108-defanging-an-ip-address/1108-defanging-an-ip-address.java",
           "sha": "fa401279283e49a7ed0e86910329089e0f901135",
           "lastSyncedAt": "2026-11-23T13:51:12.357Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1662",
+      "title": "Check If Two String Arrays are Equivalent",
+      "slug": "check-if-two-string-arrays-are-equivalent",
+      "problemName": "1662-check-if-two-string-arrays-are-equivalent",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/",
+      "folderPath": "1662-check-if-two-string-arrays-are-equivalent/",
+      "readmePath": "1662-check-if-two-string-arrays-are-equivalent/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1662-check-if-two-string-arrays-are-equivalent.java",
+          "path": "1662-check-if-two-string-arrays-are-equivalent/1662-check-if-two-string-arrays-are-equivalent.java",
+          "sha": "c086f9307d96a9ae1c7c9dbb5e4a8b9a33819836",
+          "lastSyncedAt": "2026-11-23T13:51:18.145Z"
         }
       ]
     },
