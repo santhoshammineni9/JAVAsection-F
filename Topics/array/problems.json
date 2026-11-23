@@ -5,7 +5,7 @@
     "name": "Array",
     "tagId": "5"
   },
-  "updatedAt": "2026-11-23T13:53:11.163Z",
+  "updatedAt": "2026-11-23T13:53:19.238Z",
   "problems": [
     {
       "frontendId": "1",
@@ -344,6 +344,26 @@
           "path": "1385-find-the-distance-value-between-two-arrays/1385-find-the-distance-value-between-two-arrays.java",
           "sha": "6823349eff7b6bc52bf10450ce0cc68ea5805b3f",
           "lastSyncedAt": "2026-11-23T13:49:09.649Z"
+        }
+      ]
+    },
+    {
+      "frontendId": "1431",
+      "title": "Kids With the Greatest Number of Candies",
+      "slug": "kids-with-the-greatest-number-of-candies",
+      "problemName": "1431-kids-with-the-greatest-number-of-candies",
+      "difficulty": "Easy",
+      "leetcodeUrl": "https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/",
+      "folderPath": "1431-kids-with-the-greatest-number-of-candies/",
+      "readmePath": "1431-kids-with-the-greatest-number-of-candies/README.md",
+      "solutions": [
+        {
+          "language": "Java",
+          "extension": ".java",
+          "filename": "1431-kids-with-the-greatest-number-of-candies.java",
+          "path": "1431-kids-with-the-greatest-number-of-candies/1431-kids-with-the-greatest-number-of-candies.java",
+          "sha": "7bc0e219a6900304602320d3441e3f55d8f6086f",
+          "lastSyncedAt": "2026-11-23T13:53:19.238Z"
         }
       ]
     },
